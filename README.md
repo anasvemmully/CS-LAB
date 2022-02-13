@@ -22,10 +22,10 @@ git clone https://github.com/anasvemmully/CS-S6-ANDROID-LAB.git
 ```
 ## License
 
-**Free to use, Hell Yeah 👍🏻(⓿_⓿)!**
+Free to use, Hell Yeah 👍🏻(⓿_⓿)!
 
 <p align="center">
-    <span>made with ❤ by anas</span>      
+ <span><b>made with ❤ by anas</b></span>      
 </p>
 
 [Hello World Program (Write a program to Toast Hello World)]: <https://youtu.be/7i6uSVGbITc>
