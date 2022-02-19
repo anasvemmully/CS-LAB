@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Addition of  two numbers</string>
+    <string-array name="fruit">
+        <item>Apple</item>
+        <item>Mango</item>
+        <item>Cherry</item>
+        <item>Banana</item>
+        <item>Apricot</item>
+    </string-array>
+</resources>
