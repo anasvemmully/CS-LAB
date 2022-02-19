@@ -4,21 +4,21 @@
 This repository is exclusively for lab assessment for android programming for S6 CS Students.
 
 ## Lab list and video links 
- - 1 . __ [Hello World Program (Write a program to Toast Hello World)]
- - 2 . __ [Addition of two Numbers (Write a program to add two numbers)]
- - 3 . __ [Alert Box (Write a program to Display an alert box with OK and Cancel)]
- - 4 . __ [Menu Program (Write a Program to create menu with three menu items)]
- - 5 . __ [Radio Button (Write a Program to Select gender using radio button)]
- - 6 . __ Spinner (Write a Program to Spin the four items)
- - 7 . __ Check box (Write a Program to check the items listed) 
- - 8 . __ Image View (Write a Program to Display images from local drive of the computer) 
- - 9 . __ List View (Write a Program to Display the items in a list) 
- - 10. __ Fetch data from an EditText and display it in a TextView
- - 11. __ Write a program to display multiplication table of a given number
- - 12. __ Write a program to Get IP Address of the device
- - 13. __ Write a program to Change the Background colour of the Activity
- - 14. __ Write a program to Change the Background image
- - 15. __ Write a program to start another activity from your own activity using intent
+ - 1 . [x] [Hello World Program (Write a program to Toast Hello World)]
+ - 2 . [x] [Addition of two Numbers (Write a program to add two numbers)]
+ - 3 . [x] [Alert Box (Write a program to Display an alert box with OK and Cancel)]
+ - 4 . [x] [Menu Program (Write a Program to create menu with three menu items)]
+ - 5 . [x] [Radio Button (Write a Program to Select gender using radio button)]
+ - 6 . [x] Spinner (Write a Program to Spin the four items)
+ - 7 . [x] Check box (Write a Program to check the items listed) 
+ - 8 . [x] Image View (Write a Program to Display images from local drive of the computer) 
+ - 9 . [x] List View (Write a Program to Display the items in a list) 
+ - 10. [x] Fetch data from an EditText and display it in a TextView
+ - 11. [x] Write a program to display multiplication table of a given number
+ - 12. [x] Write a program to Get IP Address of the device
+ - 13. [x] Write a program to Change the Background colour of the Activity
+ - 14. [x] Write a program to Change the Background image
+ - 15. [x] Write a program to start another activity from your own activity using intent
 
 
 ## Installation
