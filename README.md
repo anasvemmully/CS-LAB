@@ -4,10 +4,10 @@
 This repository is exclusively for lab assessment for android programming for S6 CS Students.
 
 ## Lab list and video links 
- - 1 .[Hello World Program (Write a program to Toast Hello World)]
- - 2 .[Addition of two Numbers (Write a program to add two numbers)]
- - 3 .[Alert Box (Write a program to Display an alert box with OK and Cancel)]
- - 4 .[Menu Program (Write a Program to create menu with three menu items)]
+ * 1 .[Hello World Program (Write a program to Toast Hello World)]
+ * 2 .[Addition of two Numbers (Write a program to add two numbers)]
+ * 3 .[Alert Box (Write a program to Display an alert box with OK and Cancel)]
+ * 4 .[Menu Program (Write a Program to create menu with three menu items)]
  - 5 .[Radio Button (Write a Program to Select gender using radio button)]
  - 6 .Spinner (Write a Program to Spin the four items)
  - 7 .Check box (Write a Program to check the items listed) 
