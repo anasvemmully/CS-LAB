@@ -35,8 +35,8 @@ git clone https://github.com/anasvemmully/CS-S6-ANDROID-LAB.git
 Free to use, Hell Yeah 👍🏻(⓿_⓿)!
 
 <p align="center">
- ![Full on pewer](https://tenor.com/bnlrY.gif) </br>
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif) </br>
+ <img src="https://tenor.com/bnlrY.gif" /> </br>
+
  <span><b>made with ❤ by anas</b></span>      
 </p>
 
