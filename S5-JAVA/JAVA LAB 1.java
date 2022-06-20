@@ -1,4 +1,4 @@
-// Write a java program to display Fibinocci series upto a limit
+// Write a java program to display Armstrrongnunmbers within a range
 
 import java.util.*;
 class pg
