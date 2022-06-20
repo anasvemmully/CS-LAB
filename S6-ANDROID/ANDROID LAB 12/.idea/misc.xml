@@ -5,10 +5,11 @@
       <map>
         <entry key="..\:/Projects/Flutter_projects/amal/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/Projects/Flutter_projects/amal/app/src/main/res/menu/menu.xml" value="0.35833333333333334" />
+        <entry key="..\:/anas_imp2/ANDROID LAB/ANDROID LAB 12/app/src/main/res/layout/activity_main.xml" value="0.12158054711246201" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
